@@ -1,3 +1,4 @@
 hello world
 a login feature
 fixed a bug on login page
+Added a picture to the login page
