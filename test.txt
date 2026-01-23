@@ -4,3 +4,4 @@ fixed a bug on login page
 Added a picture to the login page
 Added a 2 factor authentication
 Added a new webpage to site
+added a new functionality to webpage
